@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Python for Machine Learning from Imperial Academy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KAMENOVGEORGI/Portfolio](https://github.com/KAMENOVGEORGI/Portfolio)
+  >Latest Project I am working on 🧰 : https://github.com/KAMENOVGEORGI/Portfolio/blob/main/Python_game.md
 
 - 📫 How to reach me **g.kamenovkanchev@gmail.com**
 
