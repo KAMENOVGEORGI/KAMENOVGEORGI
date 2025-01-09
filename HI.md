@@ -8,7 +8,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/KAMENOVGEORGI/Portfolio](https://github.com/KAMENOVGEORGI/Portfolio)
   > ## Latest Project I am working on 🧰 : https://github.com/KAMENOVGEORGI/Portfolio/blob/main/Python_game.md
   > Finished projects 🫴
+  
   > https://github.com/KAMENOVGEORGI/SQL-Tableau-Project
+  
   > https://github.com/KAMENOVGEORGI/Portfolio/blob/main/ATM_project.md
 
 - 📫 How to reach me **g.kamenovkanchev@gmail.com**
